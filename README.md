@@ -23,4 +23,4 @@ Install the required packages by executing the following command.
 ![](sample_output2.jpg)
 
 ## Contact
-Feel free to create a new issue or reach out on twitter [@ponnusamy_arun](twitter.com/ponnusamy_arun).
+Feel free to create a new issue or reach out on twitter [@ponnusamy_arun](https://twitter.com/ponnusamy_arun).
