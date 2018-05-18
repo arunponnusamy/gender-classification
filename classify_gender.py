@@ -54,5 +54,8 @@ cv2.imshow("Gender classification", output)
 # press any key to close image window
 cv2.waitKey()
 
+# save output image
+cv2.imwrite("gender-classification.jpg", output)
+
 # release resources
 cv2.destroyAllWindows()
