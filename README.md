@@ -6,16 +6,15 @@ The keras model is created by training SmallerVGGNet from scratch on around 2200
 * opencv-python
 * tensorflow
 * keras
-* matplotlib
 
 Install the required packages by executing the following command.
 
-`pip install -r requirements.txt`
+`$ pip install -r requirements.txt`
 
 **Note: This repo works on Python 3.x** 
 
 ## Usage
-`python classify_gender.py -i <input_image> -m gender_classification.model`
+`$ python classify_gender.py -i <input_image> -m gender_classification.model`
 
 ## Sample output
 ![](sample_output1.jpg)
