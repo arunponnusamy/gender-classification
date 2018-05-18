@@ -5,3 +5,5 @@
 
 ## Sample output
 ![](sample_output1.jpg)
+
+![](sample_output2.jpg)
