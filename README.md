@@ -1,4 +1,4 @@
-# Gender classification using deep learning with Keras
+# Gender classification (from scratch) using deep learning with Keras
 The keras model is created by training SmallerVGGNet from scratch on around 2200 images (~1100 for each class) gathered from Google Images. It acheived around 95% training accuracy and ~85% validation accuracy. (20% of the dataset is used for validation)
 
 ## Python packages
